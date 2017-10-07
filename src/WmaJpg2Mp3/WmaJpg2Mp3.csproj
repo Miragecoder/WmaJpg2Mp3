@@ -65,7 +65,6 @@
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
     <Compile Include="ObjectExtensions.cs" />
-    <Compile Include="Operations\Converter.cs" />
     <Compile Include="Operations\Operations.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
