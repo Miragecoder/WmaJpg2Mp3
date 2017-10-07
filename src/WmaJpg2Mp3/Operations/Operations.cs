@@ -249,7 +249,7 @@ namespace WmaJpg2Mp3.Operations
                         }
                     });
 
-                var id3TagData = Scope.Pipe(() =>
+                var id3TagData = this.Pipe(@this =>
                     {
                         using (var wmaStream = new NAudio.WindowsMediaFormat.WmaStream(_sourceFile.FullName))
                         {

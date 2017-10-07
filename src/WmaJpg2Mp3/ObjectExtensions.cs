@@ -14,9 +14,4 @@ namespace WmaJpg2Mp3
         public static void Pipe<T>(this T @object, Action<T> action) => action(@object);
         public static TReturn Pipe<T, TReturn>(this T @object, Func<T, TReturn> func) => func(@object);
     }
-
-    static class Scope
-    {
-        public static TReturn Pipe<TReturn>(Func<TReturn> func) => func();
-    }
 }
