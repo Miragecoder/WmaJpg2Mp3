@@ -80,6 +80,7 @@ namespace WmaJpg2Mp3
                     progressBar1.Maximum = e.TotalItemCount;
                 }));
             };
+            tbSourceFolder.Text = Environment.GetFolderPath(Environment.SpecialFolder.MyMusic);
         }
 
         #endregion

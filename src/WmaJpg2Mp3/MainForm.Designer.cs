@@ -108,7 +108,6 @@
             this.tbDestinationFolder.Name = "tbDestinationFolder";
             this.tbDestinationFolder.Size = new System.Drawing.Size(506, 20);
             this.tbDestinationFolder.TabIndex = 4;
-            this.tbDestinationFolder.Text = "C:\\Users\\Rob\\Desktop\\Destination";
             // 
             // label2
             // 
@@ -141,7 +140,6 @@
             this.tbSourceFolder.Name = "tbSourceFolder";
             this.tbSourceFolder.Size = new System.Drawing.Size(506, 20);
             this.tbSourceFolder.TabIndex = 1;
-            this.tbSourceFolder.Text = "C:\\Users\\Rob\\Desktop\\Source";
             // 
             // label1
             // 
