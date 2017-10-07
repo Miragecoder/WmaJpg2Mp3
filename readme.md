@@ -1,5 +1,7 @@
 # WMA/JPG to MP3 Converter
 
+[![Build status](https://ci.appveyor.com/api/projects/status/8gfr42e1k1ypv3nx/branch/master?svg=true)](https://ci.appveyor.com/project/Miragecoder/wmajpg2mp3/branch/master)
+
 **WMA/JPG to MP3 Converter** is a simple tool that can take on a music library that consists of *Windows Media Audio* (**.WMA** - See: https://en.wikipedia.org/wiki/Windows_Media_Audio) files and converts them into *MPEG-1 or MPEG-2 Audio Layer III* (**.MP3** - See: https://en.wikipedia.org/wiki/MP3)
 
 What makes this tool stand out from other converters is the fact that it will **scan the folders in which the .WMA-files reside for the largest available .JPG-image and embeds it into the .MP3 as the album art.**
