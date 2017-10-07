@@ -2,9 +2,11 @@
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8gfr42e1k1ypv3nx/branch/master?svg=true)](https://ci.appveyor.com/project/Miragecoder/wmajpg2mp3/branch/master)
 
-**WMA/JPG to MP3 Converter** is a simple tool that can take on a music library that consists of *Windows Media Audio* (**.WMA** - See: https://en.wikipedia.org/wiki/Windows_Media_Audio) files and converts them into *MPEG-1 or MPEG-2 Audio Layer III* (**.MP3** - See: https://en.wikipedia.org/wiki/MP3)
+**WMA/JPG to MP3 Converter** is a simple tool that can take on a music library that consists of *Windows Media Audio* (.WMA) files and converts them into *MPEG-1 or MPEG-2 Audio Layer III* (.MP3), whilst embedding .JPG image files as album art.
 
-What makes this tool stand out from other converters is the fact that it will **scan the folders in which the .WMA-files reside for the largest available .JPG-image and embeds it into the .MP3 as the album art.**
+You may want to use this if you are operating a media device that is capable of displaying album art for .MP3-files, but not for .WMA-files; which happens to be the case with some modern car radios.
+
+![A breakdown of the problem and its solution](/images/collage.png?raw=true "A breakdown of the problem and its solution")
 
 ## Installation
 
@@ -24,7 +26,7 @@ Feel free to chime in.
 
 ## History
 
-The media player in my car is capable of displaying the album art of a given track it is playing as long as it is embedded into the file itself. Unfortunately, the .WMA file format does not support this and my music collection consists of countless .WMA-files that were 'ripped' from CD's that I have purchased throughout the years. This tool exactly fits my niche.
+The media player in my car is capable of displaying the album art of a given track it is playing as long as it is embedded into the file itself. Unfortunately, the .WMA file format does not support this and my music collection consists of countless .WMA-files that were 'ripped' from CD's that I have purchased throughout the years. Ripping hundreds of CD's is a very tedious process and I wasn't looking forward to repeating the cycle for a different file format; hence this tool.
 
 ## Credits
 
