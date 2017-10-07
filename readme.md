@@ -1,20 +1,20 @@
 # WMA/JPG to MP3 Converter
 
-**WMA/JPG to MP3 Converter** is a simple tool that can take on a music library that consists of *Windows Media Audio* (.WMA - See: https://en.wikipedia.org/wiki/Windows_Media_Audio) files and converts them into *MPEG-1 or MPEG-2 Audio Layer III* (.MP3 - See: https://en.wikipedia.org/wiki/MP3)
+**WMA/JPG to MP3 Converter** is a simple tool that can take on a music library that consists of *Windows Media Audio* (**.WMA** - See: https://en.wikipedia.org/wiki/Windows_Media_Audio) files and converts them into *MPEG-1 or MPEG-2 Audio Layer III* (**.MP3** - See: https://en.wikipedia.org/wiki/MP3)
 
-What makes this tool stand out from other converters is the fact that it will scan the folders in which the .WMA-files reside for the largest available .JPG-image and embeds it into the .MP3 as the album art.
+What makes this tool stand out from other converters is the fact that it will **scan the folders in which the .WMA-files reside for the largest available .JPG-image and embeds it into the .MP3 as the album art.**
 
 ## Installation
 
 1. Clone the repository
-2. Compile the *WmaJpg2Mp3*-project
-3. Run the *WmaJpg2Mp3*-project
+2. Compile the **WmaJpg2Mp3**-project
+3. Run the **WmaJpg2Mp3**-project
 
 ## Usage
 
-1. Run the *WmaJpg2Mp3*-executable;
-2. Set the *'Source folder'* to the root of your .WMA-file based media collection; 
-3. Set the *'Destination folder'* to the root of the path where the converted .MP3-files will be copied to.
+1. Run the **WmaJpg2Mp3**-executable;
+2. Set the **'Source folder'** to the root of your .WMA-file based media collection; 
+3. Set the **'Destination folder'** to the root of the path where the converted .MP3-files will be copied to.
 
 ## Contributing
 
