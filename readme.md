@@ -13,8 +13,8 @@ What makes this tool stand out from other converters is the fact that it will sc
 ## Usage
 
 1. Run the *WmaJpg2Mp3*-executable;
-2. Set the 'Source folder' to the root of your .WMA-file based media collection - (Typically something like 'c:\users\%youname%\Music');
-3. Set the 'Destination folder' to the root of the path where the converted .MP3-files will be copied to. - (Target it)
+2. Set the *'Source folder'* to the root of your .WMA-file based media collection - (Typically something like **'c:\users\{yourname}\Music'**);
+3. Set the *'Destination folder'* to the root of the path where the converted .MP3-files will be copied to. - (Target your USB drive and take it to the car!)
 
 ## Contributing
 
